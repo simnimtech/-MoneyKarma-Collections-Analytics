@@ -1,0 +1,6 @@
+metric,account_count
+Accounts with PAID status,7524
+Accounts with successful payments,13284
+Accounts appearing in both,3371
+PAID status without successful payment,4153
+Successful payment without PAID status,9913
